@@ -18,7 +18,7 @@
     "through2": "^2.0.3",
     "to2": "^1.0.0",
     "webrtc-swarm": "^2.8.0",
-    "websocket-stream": "^4.0.0",
+    "websocket-stream": "^5.5.2",
     "yo-yo": "^1.4.0"
   }
 }
